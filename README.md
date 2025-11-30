@@ -23,7 +23,7 @@ En la fase de data cleaning se aplicaron transformaciones como:
 ✔ Tratamiento de outliers en *minimum_nights* y *price*  
 ✔ Conversión de *last_review* a fecha válida
 
-> Se documentan todos los pasos en el notebook **02_Data_Cleaning.ipynb**.
+Se documentan todos los pasos en el notebook **02_Data_Cleaning.ipynb**.
 
 ---
 
@@ -82,5 +82,3 @@ Disponible en Kaggle / Open Data Hosting.
 
 **Óscar Fernández-Chichilla López**  
 Máster en Data Science & IA Generativa — *Evolve Academy (2025/2026)*
-
----
